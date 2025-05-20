@@ -10,3 +10,9 @@ En este curso se profundiza sobre las Consultas, Funciones, Tablas y Permisos, d
 - **`Estructuras de control`**: IF, WHILE, CASE, TRY CATCH.
 - **`Sentencias SQL`**: CREATE, ALTER, DROP, TRUNCATE.
 - **`Funciones de conversión de texto`**: REPLACE, LEN, LEFT, RIGHT, LTRIM, RTRIM, REPLICATE, DATEADD, DATEPART, ISDATE, CAST y CONVERT, SUBSTRING
+- **`Manejo de Transacciones`**.
+- **`Conectar dos o más tablas mediante las cláusulas`**: INNER JOIN, LEFT RIGHT, UNION y UNION ALL.
+- **`Implementar el uso de tablas temporales físicas, en memoria y Vistas`**.
+- **`Realizar Backups y Restore DataBase`**.
+
+## Certificado:
