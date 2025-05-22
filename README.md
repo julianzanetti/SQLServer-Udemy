@@ -1,5 +1,5 @@
 # SQL Server
-Todas las practicas y proyectos realizadas en cada seccion del curso de "Máster en SQL Server: Desde Cero a Nivel Profesional" de Udemy.
+Todas las practicas y proyectos realizados en cada seccion del curso de "Máster en SQL Server: Desde Cero a Nivel Profesional" de Udemy.
 En este curso se profundiza sobre las Consultas, Funciones, Tablas y Permisos, diseñando y programando una Base de Datos Relacional SQL.
 
 ## Temas aprendidos a profundidad:
